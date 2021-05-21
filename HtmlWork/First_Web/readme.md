@@ -5,10 +5,7 @@
 Bu Proje [Kodluyoruz](https://www.kodluyoruz.org/) Front Eğitimi için ilk  htlml ödevidir.İçerisinde bir adet README dosyası, bir adet de İndex.html, bir style.css barındırıyor 
 
 
-## Projeyi indir
-``` 
-gh repo clone suleyman3207/patrikaodevhtml
-```
+
 ## Kullanılan Programlar
 - Vs Code
 - AbodeXD
