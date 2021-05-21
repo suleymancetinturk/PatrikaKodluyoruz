@@ -5,4 +5,4 @@ Bu proje patrika ekibinin hazırlmış olduğu Frondend Web Development Bootcamp
 ---
 ## İçindekiler
 - Html Ödevleri
-    [First Web](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/HtmlWork/First Web)
+    [First Web](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/HtmlWork/First_Web)
