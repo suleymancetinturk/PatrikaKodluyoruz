@@ -12,5 +12,20 @@ Bu proje patrika ekibinin hazırlmış olduğu Frondend Web Development Bootcamp
     * [Google Clone](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/CssWork/GoogleClone)
 - Javascript
    * [Saat ve karşılama](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/JavascriptWork/Javascript_Saat_ve_Karsilama)
+---
 
-    ---
+# Clone yapmak için
+**Windows için;** 
+```
+git clone https://github.com/suleymancetinturk/PatrikaKodluyoruz.git
+```
+**Linux için**,
+```
+cd PatrikaKodluyoruz
+code .
+```
+---
+## İletişim 
+- [Linkedin](https://www.linkedin.com/in/suleyman-cetinturk/) 
+- suleymancetinturk@gmail.com
+- [GitHup](https://github.com/suleymancetinturk)
