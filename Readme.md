@@ -24,7 +24,7 @@ git clone https://github.com/suleymancetinturk/PatrikaKodluyoruz.git
 cd PatrikaKodluyoruz
 code .
 ```
----
+
 ## Proje Clone Sonrası
 Clone sonra Visual Code programında açınız.
 
