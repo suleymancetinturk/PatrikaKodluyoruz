@@ -11,7 +11,7 @@ Bu proje patrika ekibinin hazırlmış olduğu Frondend Web Development Bootcamp
 - Css Ödevleri
     * [Google Clone](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/CssWork/GoogleClone)
 - Javascript
-   * [Saat ve karşılama](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/JavascriptWork/Javascript_Saat_ve_Karsilama)
+   * [Saat ve Karşılama](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/JavascriptWork/Javascript_Saat_ve_Karsilama)
 ---
 
 # Clone yapmak için
