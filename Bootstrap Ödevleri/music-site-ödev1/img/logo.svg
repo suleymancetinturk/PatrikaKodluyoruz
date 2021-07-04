@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142.141" height="65.106" viewBox="0 0 142.141 65.106">
+  <g id="Group_7" data-name="Group 7" transform="translate(-186.26 -17.193)">
+    <text id="Shop" transform="translate(280.401 50.298)" fill="#fff" stroke="#fff" stroke-width="1" font-size="27" font-family="PinchikRegular, Pinchik"><tspan x="0" y="0">Shop</tspan></text>
+    <path id="primary" d="M14.891,33.927a17.03,17.03,0,1,1,18.627-21.16m-16.5,0a4.258,4.258,0,1,0,4.258,4.258A4.258,4.258,0,0,0,17.02,12.767Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 188, 24.82)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <text id="music_" data-name="music
+" transform="translate(219.183 50.298)" fill="#fff" font-size="27" font-family="PinchikRegular, Pinchik"><tspan x="0" y="0">music</tspan><tspan font-family="PinchikBlack, Pinchik"><tspan x="0" y="29"></tspan></tspan></text>
+  </g>
+</svg>
