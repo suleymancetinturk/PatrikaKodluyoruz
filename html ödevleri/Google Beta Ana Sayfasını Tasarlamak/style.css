@@ -1,0 +1,64 @@
+    body {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+    }
+    
+    label {
+        font-size: x-large;
+    }
+    
+    img {
+        height: 14em;
+    }
+    
+    main {
+        background-color: #eeeeee;
+        padding: 0.3em;
+    }
+    
+    .btn {
+        font-size: 1.2em;
+    }
+    
+    #copyright {
+        margin: 3em;
+    }
+    
+    #mail {
+        font-size: inherit;
+    }
+    
+    #search {
+        height: 2em;
+        width: 49em;
+    }
+    
+    #container {
+        width: 90%;
+        text-align: center;
+    }
+    
+    section {
+        font-size: 1.3em;
+        display: grid;
+        gap: 0.5em;
+        grid-template-columns: 40% auto 40%;
+    }
+    
+    #article_1 {
+        padding: 2em;
+        background-color: #7ee5da;
+    }
+    
+    #article_2 {
+        padding: 1em;
+        background-color: #70ccc2;
+    }
+    
+    #article_3 {
+        padding: 1em;
+        background-color: #62b3aa;
+    }
