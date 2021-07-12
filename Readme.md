@@ -13,7 +13,7 @@ Bu proje patrika ekibinin hazırlmış olduğu Frondend Web Development Bootcamp
 - Javascript
    * [Saat ve Karşılama](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/JavascriptWork/Javascript_Saat_ve_Karsilama)
 - Bootstrap 5 Ödevleri
-   * [Music Sİte](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/Bootstrap%20%C3%96devleri/music-site-%C3%B6dev1)
+   * [Music Site](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/Bootstrap%20%C3%96devleri/music-site-%C3%B6dev1)
    * [instagram Clone](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/Bootstrap%20%C3%96devleri/instagram-bootstrap5-%C3%B6dev-2)
 ---
 
