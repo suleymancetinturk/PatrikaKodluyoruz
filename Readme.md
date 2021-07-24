@@ -15,6 +15,7 @@ Bu proje patrika ekibinin hazırlmış olduğu Frondend Web Development Bootcamp
 - Bootstrap 5 Ödevleri
    * [Music Site](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/Bootstrap%20%C3%96devleri/music-site-%C3%B6dev1)
    * [instagram Clone](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/Bootstrap%20%C3%96devleri/instagram-bootstrap5-%C3%B6dev-2)
+   * [linkedin Clone](https://github.com/suleymancetinturk/PatrikaKodluyoruz/tree/master/Bootstrap%20%C3%96devleri/linkedin-clone-bootstrap-%C3%B6dev-3)
 ---
 
 # Clone yapmak için
