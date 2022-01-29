@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# 101\\Pratikler\\console programlama\\console programlama.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\PatrikaKodluyoruz\\C# 101\\Pratikler\\console programlama\\console programlama.csproj",
       "projectName": "console programlama",
-      "projectPath": "C:\\Users\\user\\Desktop\\C# 101\\Pratikler\\console programlama\\console programlama.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\PatrikaKodluyoruz\\C# 101\\Pratikler\\console programlama\\console programlama.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C# 101\\Pratikler\\console programlama\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\PatrikaKodluyoruz\\C# 101\\Pratikler\\console programlama\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
