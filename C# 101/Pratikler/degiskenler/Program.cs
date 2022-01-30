@@ -73,6 +73,7 @@ namespace degiskenler
 
             // date time
             string datetime = DateTime.Now.ToString("dd.MM.yyyy");
+            
 
         }
     }
