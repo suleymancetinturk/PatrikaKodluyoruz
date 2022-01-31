@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\while,for-each\bin\Debug\net5.0\while,for-each.exe
+C:\Users\user\Desktop\while,for-each\bin\Debug\net5.0\while,for-each.deps.json
+C:\Users\user\Desktop\while,for-each\bin\Debug\net5.0\while,for-each.runtimeconfig.json
+C:\Users\user\Desktop\while,for-each\bin\Debug\net5.0\while,for-each.runtimeconfig.dev.json
+C:\Users\user\Desktop\while,for-each\bin\Debug\net5.0\while,for-each.dll
+C:\Users\user\Desktop\while,for-each\bin\Debug\net5.0\ref\while,for-each.dll
+C:\Users\user\Desktop\while,for-each\bin\Debug\net5.0\while,for-each.pdb
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.csprojAssemblyReference.cache
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.AssemblyInfo.cs
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.dll
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\ref\while,for-each.dll
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.pdb
+C:\Users\user\Desktop\while,for-each\obj\Debug\net5.0\while,for-each.genruntimeconfig.cache
